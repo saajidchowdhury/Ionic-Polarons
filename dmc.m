@@ -655,11 +655,6 @@ for i = 1:ln
 end
 fclose(F);
 
-%play sound when finished
-[garbage1, garbage2] = audioread('sound.mp3');
-player = audioplayer(garbage1, garbage2);
-play(player);
-
 function V = V(x, C8, C12, b, c, f)
     n = length(x)/3;
     V = 0;
