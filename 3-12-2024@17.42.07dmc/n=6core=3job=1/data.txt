@@ -1,0 +1,23 @@
+%DMC Yb+ ion in ultracold gas of Li atoms.
+n(particles) 	6
+E/n(Hartree) 	-1.8869e-02
+E(Hartree) 	-1.1321e-01
+runtime(s) 	13.50
+Rmax(Bohr) 	8.06812521
+N0(walkers) 	500
+dE(Hartree) 	1.9975e-04
+boxsize(Bohr) 	6.3
+C8(HBohr^8) 	80157
+C12(HBohr^12) 	3.1925e+08
+b(Bohr) 	-1.00
+c(Bohr) 	-1.00
+t0(atomic time) 50000
+dt(atomic time) 100
+meanruntime(s)  13.50
+N1(walkers) 	491
+f(Hz) 		0
+cores 		10
+coresPerN 	3
+nb 		1000
+rmin(Bohr) 	1.0
+rmax(Bohr) 	11.3
